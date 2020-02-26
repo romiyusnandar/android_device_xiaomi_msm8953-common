@@ -197,6 +197,10 @@ PRODUCT_PACKAGES += \
     android.hardware.drm-service.clearkey \
     android.hardware.drm@1.4.vendor
 
+# fastbootd
+PRODUCT_PACKAGES += \
+    fastbootd
+
 # FM
 PRODUCT_PACKAGES += \
     FMRadio \
