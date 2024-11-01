@@ -166,10 +166,10 @@ endif
 endif
 
 # FM
-PRODUCT_PACKAGES += \
-    FMRadio \
-    libfmjni \
-    qcom.fmradio
+#PRODUCT_PACKAGES += \
+#    FMRadio \
+#    libfmjni \
+#    qcom.fmradio
 
 # Gatekeeper
 PRODUCT_PACKAGES += \
